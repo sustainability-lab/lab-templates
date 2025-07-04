@@ -485,7 +485,7 @@ Validation Accuracy (%)
 
 ## Questions & Discussion
 
-**Contact:** nipun.batra@iiitd.ac.in  
+**Contact:** nipun.batra@iitgn.ac.in  
 **Lab Website:** https://sustainabilitylab.org  
 **Code:** https://github.com/sustainability-lab
 

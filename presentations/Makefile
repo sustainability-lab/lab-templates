@@ -12,6 +12,13 @@ beamer:
 	cd beamer && pdflatex lab_template.tex
 	@echo "Beamer PDF created: beamer/lab_template.pdf"
 
+# Build LaTeX Beamer with custom class
+beamer-class:
+	@echo "Building LaTeX Beamer with custom class..."
+	cd beamer && pdflatex example_with_class.tex
+	cd beamer && pdflatex example_with_class.tex
+	@echo "Beamer class example PDF created: beamer/example_with_class.pdf"
+
 # Build Marp presentation to PDF
 marp:
 	@echo "Building Marp presentation to PDF..."
