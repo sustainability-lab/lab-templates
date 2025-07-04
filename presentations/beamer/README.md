@@ -126,4 +126,5 @@ Perfect for academic conferences, thesis defenses, and technical presentations.
 
 **Sustainability Lab**  
 **IIT Gandhinagar**  
-**Email:** nipun.batra@iitgn.ac.in
+**Email:** nipun.batra@iitgn.ac.in  
+**Lab Website:** https://sustainability-lab.github.io/
